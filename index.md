@@ -8,7 +8,7 @@ Textify respects your privacy. This Privacy Policy explains how we handle inform
 Textify does not collect, store, or share any personal information from its users. Any text or images processed through the app are handled locally on your device and are not transmitted to our servers.
 
 ## Third-Party Services
-Textify does not use third-party analytics, advertising, or tracking services.
+Textify does not use third-party analytics, advertising, or tracking services
 
 ## Children's Privacy
 Textify is safe for all ages and does not knowingly collect personal information from children under 13.
