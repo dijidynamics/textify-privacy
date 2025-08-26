@@ -18,5 +18,5 @@ We may update this Privacy Policy from time to time. Updates will be posted in t
 
 ## Contact Us
 If you have questions about this Privacy Policy, you can contact us at:
-**[Your Name or Company]**  
-**[Your Email Address]**
+**[dijidynamics]**  
+**[dijidynamics2024@gmail.com]**
